@@ -1,0 +1,11 @@
+#main div#author-info {
+	background: #f2f2f2; padding: 10px; margin: 0 0 15px 0;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	overflow: auto;
+	border: solid 1px #e6e6e6;
+}	
+#main div#author-info div#author-image {
+		float: left; margin: 0 10px 5px 0; border: 3px solid #fff; 
+}
